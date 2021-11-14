@@ -1,1 +1,9 @@
 @import 'styles/reset.css';
+@import 'styles/navbar.css';
+@import 'styles/featured.css';
+@import 'styles/join.css';
+@import 'styles/footer.css';
+@import 'styles/info.css';
+@import 'styles/hero.css';
+@import 'styles/root.css';
+@import 'styles/global.css';
